@@ -1,15 +1,33 @@
-### Hi there 👋
 [![Header](https://github.com/lyov077/lyov077/blob/main/assets/github-header-image.png)]()
 
+### I have already worked on:
+- 📈 Staking protocol,
 
-### :man_technologist: &nbsp;About Me :
+- 📊 Vesting protocol,
 
-I am a Blockchain Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Armenia.
+- 🌱 Farming protocol
 
-- 🔭 I’m working as a Solidity developer and contributing to backend for building web3 applications.
-- 🌱 Exploring Technical Content Writing.
-- ⚡ In my free time I solve problems on Ethernaut and read tech articles about Blockchain.
-- 📫 How to reach me: &nbsp; [![Linkedin Badge](https://img.shields.io/badge/-Lyov-blue?style=plastic&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/levon-hambardzumyan/)
+- 👨‍⚖️ Goverance protocol,
+
+- ♟  MLM projects
+
+- 🛠 Upgradable smart-contracts (Openzeppelin upgrade),
+
+- 🎰 Gambling smart-contracts
+
+- 🪙 ERC-20 standard tokens with additional logic(whitelist, marketing and dev fee and etc) 
+
+- <img src="https://media.giphy.com/media/KfGn1vvV29Xmn2SO0R/giphy.gif" width="30"> NFT projects (ERC-721, ERC-1155 standard tokens),
+
+- 🔎 Smart-contracts audit
+
+- 🔬 Unit testing for smart-contracts
+
+- 🧪 Scripts or tasks for interacting with smart-contracts
+
+- 📑Deploying smart-contracts
+
+- ✅Verifying smart-contracts
 
 ### Languages and Tools:
 
@@ -25,26 +43,14 @@ I am a Blockchain Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ![Waffle](https://img.shields.io/badge/-Waffle-000000?style=flat-square&logo=Waffle)
 
 
-<!--
-**lyov077/lyov077** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### :man_technologist: &nbsp;About Me :
 
-Here are some ideas to get you started:
+I am a Blockchain Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Armenia.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m working as a Solidity developer and contributing to backend for building web3 applications.
+- 🌱 I am studying React, to become Fullstack web3 developer.
+- ⚡ In my free time I solve problems on Ethernaut and read tech articles about Blockchain.
+- 📫 How to reach me: &nbsp; [![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=plastic&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/levon-hambardzumyan/)
 
-<!-- <header>
 
-<About me>
-
-<Type of projects that I do>
-
-<Languages and Tools> -->
 
