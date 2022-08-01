@@ -1,23 +1,23 @@
 [![Header](https://github.com/lyov077/lyov077/blob/main/assets/github-header-image.png)]()
 
 ### I have already worked on:
-- 📈 Staking protocol,
+- 📈 Staking protocol
 
-- 📊 Vesting protocol,
+- 📊 Vesting protocol
 
 - 🌱 Farming protocol
 
-- 👨‍⚖️ Goverance protocol,
+- 👨‍⚖️ Goverance protocol
 
 - ♟  MLM projects
 
-- 🛠 Upgradable smart-contracts (Openzeppelin upgrade),
+- 🛠 Upgradable smart-contracts (Openzeppelin upgrade)
 
 - 🎰 Gambling smart-contracts
 
 - 🪙 ERC-20 standard tokens with additional logic(whitelist, marketing and dev fee and etc) 
 
-- <img src="https://media.giphy.com/media/KfGn1vvV29Xmn2SO0R/giphy.gif" width="30"> NFT projects (ERC-721, ERC-1155 standard tokens),
+- <img src="https://media.giphy.com/media/KfGn1vvV29Xmn2SO0R/giphy.gif" width="30"> NFT projects (ERC-721, ERC-1155 standard tokens)
 
 - 🔎 Smart-contracts audit
 
@@ -25,9 +25,9 @@
 
 - 🧪 Scripts or tasks for interacting with smart-contracts
 
-- 📑Deploying smart-contracts
+- 📑 Deploying smart-contracts
 
-- ✅Verifying smart-contracts
+- ✅ Verifying smart-contracts
 
 ### Languages and Tools:
 
